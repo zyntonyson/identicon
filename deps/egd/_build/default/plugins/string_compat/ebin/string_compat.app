@@ -1,0 +1,11 @@
+{application,string_compat,
+             [{description,"Erlang 20 string compatibility library."},
+              {vsn,"0.0.1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {modules,[string_compat]},
+              {env,[]},
+              {maintainers,["Luis Rascao"]},
+              {licenses,["Apache 2.0"]},
+              {links,[{"Github",
+                       "https://github.com/lrascao/string_compat"}]}]}.
